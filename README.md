@@ -62,3 +62,8 @@ Think like this:
 Binding = setup time
 
 Synthetic Event = runtime when user clicks
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+Code What Happens
+onClick={handleClick} Runs when clicked ✅
+onClick={handleClick()} Runs immediately ❌
