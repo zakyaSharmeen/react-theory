@@ -89,3 +89,22 @@ onClick={handleClick()} Runs immediately ❌
 // return state;
 // }
 // }
+
+// Redux Toolkit is the official abstraction over Redux that
+// simplifies setup using createSlice and configureStore
+// 👉 Action + Reducer together
+// 👉 No switch-case
+// ex
+// import { createSlice } from "@reduxjs/toolkit";
+
+// const counterSlice = createSlice({
+// name: "counter",
+// initialState: { value: 0 },
+// reducers: {
+// increment: (state) => {
+// state.value += 1;
+// }
+// }
+// });
+
+// export const { increment } = counterSlice.actions;
