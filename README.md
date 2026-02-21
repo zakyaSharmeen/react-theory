@@ -67,3 +67,25 @@ Synthetic Event = runtime when user clicks
 Code What Happens
 onClick={handleClick} Runs when clicked ✅
 onClick={handleClick()} Runs immediately ❌
+
+/////////////////////////////rtk
+//"Redux is a state container for managing global state.it requires a lot of boilerplate,
+// Manual action + switch-case
+// data flow--------
+// Component
+// → dispatch(action)
+// → Reducer (switch-case)
+// → Store updates state
+// → UI re-renders
+// ex
+// Action
+// const increment = () => ({ type: "INCREMENT" });
+// // Reducer
+// function counterReducer(state = { value: 0 }, action) {
+// switch (action.type) {
+// case "INCREMENT":
+// return { value: state.value + 1 };
+// default:
+// return state;
+// }
+// }
