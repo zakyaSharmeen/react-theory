@@ -146,3 +146,5 @@ onClick={handleClick()} Runs immediately ❌
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
 i know zakya right now u r going through some difficult phase but dont worry everything will be fine
+
+i know u r capable enough to do something great
