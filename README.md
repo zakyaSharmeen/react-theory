@@ -151,3 +151,6 @@ i know u r capable enough to do something great
 ${} is used inside backticks ( ) to insert a JavaScript value or expression into a string.
 
 It is called template literal interpolation.
+
+const name = "Ali";
+console.log(`Hello ${name}`);
