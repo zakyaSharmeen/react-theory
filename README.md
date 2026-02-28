@@ -156,3 +156,5 @@ const name = "Ali";
 % console.log(`Hello ${name}`);
 
 <!-- no matter wht u do in life u have to be very gentle and kind -->
+
+i know zak u r trying just one more effeort and u r there
