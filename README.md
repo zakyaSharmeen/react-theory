@@ -153,4 +153,6 @@ ${} is used inside backticks ( ) to insert a JavaScript value or expression into
 It is called template literal interpolation.
 
 const name = "Ali";
-console.log(`Hello ${name}`);
+% console.log(`Hello ${name}`);
+
+<!-- no matter wht u do in life u have to be very gentle and kind -->
