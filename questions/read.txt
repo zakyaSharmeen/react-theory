@@ -102,3 +102,16 @@ Protect a route so only logged-in users can access
 Implement role-based access (admin/user)
 Store passwords securely using hashing
 
+
+🍃 MongoDB
+Design schema for:
+Users
+Posts
+Comments (with relations)
+Write query to:
+Get all posts with user details
+Update nested field in document
+Delete all users inactive for 30 days
+Add index to improve search performance
+
+
