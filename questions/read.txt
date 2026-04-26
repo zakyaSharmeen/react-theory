@@ -115,3 +115,18 @@ Delete all users inactive for 30 days
 Add index to improve search performance
 
 
+⚛️ React
+Build a form with validation (email + password)
+Create a reusable input component
+Fetch API and show:
+loading
+error
+data
+Build search filter UI
+Implement debounced search
+Build infinite scroll list
+Create protected route system
+Optimize a slow component
+Prevent unnecessary re-renders
+Manage global state (Context or Redux basic)
+
