@@ -1,1 +1,22 @@
 prfer the notebook named-genius -football
+
+Find the largest number in an array
+Find the smallest number in an array
+Find the sum of all elements in an array
+Count how many even numbers are in an array
+Reverse an array without using built-in methods
+Check if an array contains a specific value
+Remove duplicates from an array
+Sort an array in ascending order
+Find the index of a given element in an array
+Merge two arrays into one
+Find the second largest number in an array
+Move all zeros in an array to the end
+Count the frequency of each element in an array
+Find all duplicate elements in an array
+Find common elements between two arrays
+Remove a specific element from an array
+Flatten a nested array (1 level deep)
+Find the element that appears most frequently
+Rotate an array to the left by 1 position
+Check if an array is sorted in ascending order
