@@ -130,3 +130,10 @@ Optimize a slow component
 Prevent unnecessary re-renders
 Manage global state (Context or Redux basic)
 
+
+🔄 Full MERN Integration
+Connect frontend to backend API
+Handle token-based auth in frontend
+Store token securely
+Logout user properly
+Deploy full MERN app
