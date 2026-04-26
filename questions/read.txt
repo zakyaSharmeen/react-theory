@@ -87,3 +87,18 @@ What is express.Router()?
 How to structure Express apps?
 What is rate limiting?
 
+
+////////////////////////////////////////practicals
+🚀 MERN Practical Interview Questions (1–30)
+🔗 Backend + API
+Build a REST API for a Todo app (CRUD endpoints)
+Add pagination to a GET API (?page=1&limit=10)
+Implement search API (?search=abc)
+Write middleware to log request time
+Create an API that validates request body
+Handle global error middleware
+Build JWT authentication (login + verify)
+Protect a route so only logged-in users can access
+Implement role-based access (admin/user)
+Store passwords securely using hashing
+
