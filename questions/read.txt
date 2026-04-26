@@ -1,0 +1,22 @@
+🧠 Core Web Fundamentals (1–20)
+
+What happens when you type a URL in the browser?
+What is HTTP vs HTTPS?
+What are HTTP methods (GET, POST, PUT, DELETE)?
+What is the difference between REST and RPC?
+What is a status code? Name common ones.
+What is CORS and why does it occur?
+What is JSON and why is it used?
+What is statelessness in HTTP?
+What is a cookie vs localStorage vs sessionStorage?
+What is the DOM?
+What is event bubbling and capturing?
+What is the difference between synchronous and asynchronous code?
+What is AJAX?
+What is a promise?
+What is async/await?
+What is API?
+What is authentication vs authorization?
+What is hashing?
+What is encryption?
+What is MVC architecture?
