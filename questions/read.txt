@@ -20,3 +20,31 @@ What is authentication vs authorization?
 What is hashing?
 What is encryption?
 What is MVC architecture?
+
+⚛️ React Fundamentals (21–45)
+What is React?
+What is a component?
+Functional vs class components?
+What are props?
+What is state?
+What is useState hook?
+What is useEffect hook?
+What is virtual DOM?
+How does React diffing work?
+What is reconciliation?
+What are keys in React lists?
+What is lifting state up?
+What is controlled vs uncontrolled components?
+What is context API?
+What is prop drilling?
+What is React Router?
+What is SPA (Single Page Application)?
+What are React hooks rules?
+What is useRef?
+What is useMemo and useCallback?
+What is conditional rendering?
+What are fragments?
+What is lazy loading in React?
+What is error boundary?
+What is Redux (basic idea)?
+
