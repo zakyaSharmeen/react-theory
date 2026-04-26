@@ -48,3 +48,42 @@ What is lazy loading in React?
 What is error boundary?
 What is Redux (basic idea)?
 
+
+🟢 Node.js Fundamentals (46–65)
+What is Node.js?
+How is Node.js different from browser JS?
+What is event loop?
+What is non-blocking I/O?
+What is a callback function?
+What are modules in Node?
+What is require vs import?
+What is package.json?
+What is npm?
+What is middleware?
+What is process object?
+What is environment variable?
+What is fs module?
+What is stream in Node.js?
+What is buffer?
+What is clustering?
+What is thread pool?
+What is REPL?
+What is global object in Node?
+How does Node handle concurrency?
+🚀 Express.js Fundamentals (66–80)
+What is Express.js?
+What is routing?
+What is middleware in Express?
+What is next() function?
+What is request and response object?
+What is body-parser?
+How to handle errors in Express?
+What is RESTful API?
+What is route parameter?
+What is query parameter?
+What is CORS middleware?
+What is express.json()?
+What is express.Router()?
+How to structure Express apps?
+What is rate limiting?
+
